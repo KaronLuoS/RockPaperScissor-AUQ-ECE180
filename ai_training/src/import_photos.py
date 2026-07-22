@@ -6,7 +6,7 @@ train_dir = r"../karonlan-RPC-Pictures/testing"
 data_dir = r"../data"
 
 # Labels you expect
-labels = ["Rock", "Paper", "Scissor"]
+labels = ["Rock", "Paper", "Scissor","None"]
 
 # Move each image into the correct folder
 for filename in os.listdir(train_dir):
@@ -22,7 +22,8 @@ for filename in os.listdir(train_dir):
         label = "Scissor"
         destination = os.path.join(data_dir, "scissors", filename)
     else:
-        continue
+        label = "None"
+        destination = os.path.join(data_dir, "none", filename)
 
     shutil.move(filepath, destination)
     print(f"Moved {filename} -> {label}")

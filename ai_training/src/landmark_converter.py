@@ -17,18 +17,22 @@ landmarker = vision.HandLandmarker.create_from_options(options)
 
 def extract_features(image_path):
     """Returns a 63-length list of floats, or None if no hand was found."""
-    mp_image = mp.Image.create_from_file(image_path)
-    if mp_image is None:
+    image = cv2.imread(image_path)
+    if image is None:
         return None
-    
+    image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+    mp_image = mp.Image(image_format=mp.ImageFormat.SRGB, data=image_rgb)
     result = landmarker.detect(mp_image)
-    if not result.hand_landmarks:
+    if not result.hand_world_landmarks:
         return None
-
-    hand = result.hand_landmarks[0]
+ 
+    hand = result.hand_world_landmarks[0]
+    handedness = result.handedness[0][0].category_name  # "Left" or "Right"
+ 
     features = []
     for lm in hand:
-        features.extend([lm.x, lm.y, lm.z])
+        x = -lm.x if handedness == "Left" else lm.x  # mirror left hands
+        features.extend([x, lm.y, lm.z])
     return features
 
 
