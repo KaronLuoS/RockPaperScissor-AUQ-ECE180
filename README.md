@@ -1,3 +1,8 @@
+#  Team 11 - Hand Gesture Recognition with Webcam and Display for Interactive Game
+### ECE180 · Summer Session I 2026 · UC San Diego
+
+ ![UCSD - Jacob School of Engineering](images/UCSDLogo_JSOE_BlueGold_Web.jpg)
+
 # RockPaperScissor-AUQ
 
 ## Real-Time Rock Paper Scissors Gesture Recognition on Arduino UNO Q
