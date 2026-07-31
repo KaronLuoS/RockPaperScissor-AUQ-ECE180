@@ -1,7 +1,7 @@
 #  Team 11 - Hand Gesture Recognition with Webcam and Display for Interactive Game
 ### ECE180 · Summer Session I 2026 · UC San Diego
 
- ![UCSD - Jacob School of Engineering](images/UCSDLogo_JSOE_BlueGold_Web.jpg)
+ need to upload the UCSD jacob School of Engineering image
 
 # RockPaperScissor-AUQ
 
