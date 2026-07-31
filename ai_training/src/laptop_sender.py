@@ -3,7 +3,7 @@ Captures webcam frames, extracts hand landmarks with MediaPipe, and sends the 63
 the Uno Q over HTTP
 
 Usage:
-    python laptop_sender.py --uno-q-ip 192.168.1.70
+    python laptop_sender.py --uno-q-ip 192.168.1.70 
 """
 
 import argparse
