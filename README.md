@@ -11,7 +11,7 @@
 2. [Abstract](#abstract)
 3. [What We Promised](#what-we-promised)
 4. [Accomplishments](#accomplishments)
-5. [Video Demo & Photos](#video-demo--photos)
+5. [Video Demo & Photos](#video-demo)
 6. [Usage](#usage)
 ---
  
