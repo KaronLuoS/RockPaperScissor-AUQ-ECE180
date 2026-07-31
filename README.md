@@ -1,7 +1,7 @@
 #  Team 11 - Hand Gesture Recognition and Display for Interactive Game
 ### ECE180 · Summer Session I 2026 · UC San Diego
 
-![UCSD Jacobs School of Engineering](image/ucsd-jacobs-logo.png)
+![UCSD Jacobs School of Engineering](image/ucsd-jacobs-logo.jpg)
 
 
 
