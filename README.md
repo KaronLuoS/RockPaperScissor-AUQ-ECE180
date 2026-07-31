@@ -1,4 +1,4 @@
-#  Team 11 - Hand Gesture Recognition with Webcam and Display for Interactive Game
+#  Team 11 - Hand Gesture Recognition and Display for Interactive Game
 ### ECE180 · Summer Session I 2026 · UC San Diego
 
  //need to upload the UCSD jacob School of Engineering image
@@ -35,9 +35,9 @@
 ## 📌 What We Promised
  
 ### Must-Haves
-- [x] Accurate real-time recognition of "Rock", "Paper", and "Scissors" gestures via webcam
+- [x] Accurate real-time recognition of "Rock", "Paper", and "Scissors" gestures via camera
 - [x] A fully playable "Rock-Paper-Scissors" game where the Arduino randomly chooses its move and displays it on the 
-- [x] Achieve at least 75% of accuracy on hand gestures
+- [x] Achieve at least 95% of accuracy on hand gestures
 ### Nice-to-Haves
 - [ ] A second game mode — Simon Says (a memory/gesture-repetition game).  
 - [ ] Different Hand Gestures for recognition in Simon Say 
