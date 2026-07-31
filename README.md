@@ -3,6 +3,31 @@
 
  need to upload the UCSD jacob School of Engineering image
 
+
+
+ ## 📋 Table of Contents
+ 
+1. [Team Members](#-team-members)
+2. [Abstract](#-abstract)
+3. [What We Promised](#-what-we-promised)
+4. [Accomplishments](#-accomplishments)
+5. [Challenges & Lessons Learned](#-challenges--lessons-learned)
+6. [Video Demo & Photos](#-video-demo--photos)
+7. [Sensor Fusion on the JeepBot - How To](#-sensor-fusion-on-the-jeepbot--how-to)
+8. [Hardware - Dropoff System](#-hardware--dropoff-system)
+9. [Gantt Chart](#-gantt-chart)
+---
+ 
+## 👥 Team Members
+ 
+| Name | Major | Contacts | LinkedIn |
+|---|---|---|---|
+| Kailan Luo | ECE |  |  |
+| Myles Guerrero | ECE |  |  |
+| Riku Nagareda | ECE | rnagareda@ucsd.edu| [LinkedIn]()
+ 
+---
+
 # RockPaperScissor-AUQ
 
 ## Real-Time Rock Paper Scissors Gesture Recognition on Arduino UNO Q
