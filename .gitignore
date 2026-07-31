@@ -1,0 +1,7 @@
+mp_env/
+venv/
+.venv/
+env/
+.vscode/
+karonlan-RPC-Pictures/
+data/
