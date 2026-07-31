@@ -13,9 +13,7 @@
 4. [Accomplishments](#-accomplishments)
 5. [Challenges & Lessons Learned](#-challenges--lessons-learned)
 6. [Video Demo & Photos](#-video-demo--photos)
-7. [Sensor Fusion on the JeepBot - How To](#-sensor-fusion-on-the-jeepbot--how-to)
-8. [Hardware - Dropoff System](#-hardware--dropoff-system)
-9. [Gantt Chart](#-gantt-chart)
+7. [Gantt Chart](#-gantt-chart)
 ---
  
 ## 👥 Team Members
