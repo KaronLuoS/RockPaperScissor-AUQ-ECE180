@@ -5,17 +5,17 @@
 
 
 
- ## 📋 Table of Contents
+ ## Table of Contents
  
-1. [Team Members](#-team-members)
-2. [Abstract](#-abstract)
-3. [What We Promised](#-what-we-promised)
-4. [Accomplishments](#-accomplishments)
-5. [Video Demo & Photos](#-video-demo--photos)
-6. [Usage](#-usage)
+1. [Team Members](#team-members)
+2. [Abstract](#abstract)
+3. [What We Promised](#what-we-promised)
+4. [Accomplishments](#accomplishments)
+5. [Video Demo & Photos](#video-demo--photos)
+6. [Usage](#usage)
 ---
  
-## 👥 Team Members
+## Team Members
  
 | Name | Major | Contacts | LinkedIn |
 |---|---|---|---|
