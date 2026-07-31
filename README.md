@@ -163,7 +163,7 @@ We would extend the project by adding:
 
 
 ## Video Demo
-https://www.youtubeeducation.com/watch?v=s4KVJxp8604
+Please check out our demo [here](https://www.youtubeeducation.com/watch?v=s4KVJxp8604).
 ---
 
 ## Usage
